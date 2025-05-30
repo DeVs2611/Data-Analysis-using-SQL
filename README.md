@@ -37,5 +37,5 @@ Each project in this repository focuses on extracting meaningful insights from r
 ## 📫 Contact
 
 **Name:** Dev Srivastava  
-**LinkedIn:** [www.linkedin.com/in/dev-srivastava-7477b1238](https://www.linkedin.com/in/dev-srivastava-7477b1238)  
+**LinkedIn:** [Dev Srivastava](https://www.linkedin.com/in/dev-srivastava-7477b1238)  
 **Email:** devnoida26@gmail.com
